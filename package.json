@@ -25,7 +25,7 @@
     "@types/validator": "^10.11.1",
     "authy": "^1.4.0",
     "axios": "^0.16.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "clockwork": "^0.1.4",
