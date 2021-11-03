@@ -59,7 +59,7 @@
     "ts-sequelize-models": "^1.2.2",
     "twilio": "^3.33.3",
     "typescript": "^3.5.1",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.7",
